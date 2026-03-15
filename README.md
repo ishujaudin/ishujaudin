@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Git, Swift, UIKit, SwiftUI, Objective-C, Application Programming Interfaces, and Team Building. Strong engineering professional with a Bachelor's degree focused in Computer Engineering from University of Engineering and Technology, Taxila.
+Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Git, Swift, UIKit, SwiftUI, Objective-C, React Native, Application Programming Interfaces, and Team Building. Strong engineering professional with a Bachelor's degree focused in Computer Engineering from University of Engineering and Technology, Taxila.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuja_ud_din) 
